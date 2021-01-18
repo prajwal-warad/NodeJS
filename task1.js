@@ -1,3 +1,4 @@
+//This is just for edit purpose
 
 var data=require('./battles.json');
 // var mydata=JSON.parse(data);
